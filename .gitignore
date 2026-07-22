@@ -1,0 +1,21 @@
+# Python Cache and Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints (if you used notebooks for testing)
+.ipynb_checkpoints/
+
+# Power BI temporary/backup files
+*.pbix.backup
+
+# OS Generated Files (Mac/Windows junk files)
+.DS_Store
+Thumbs.db
+
+# Large Datasets 
+# (Note: Remove the '#' on the next line if you ever want to block CSVs from uploading due to size limits)
+# *.csv
